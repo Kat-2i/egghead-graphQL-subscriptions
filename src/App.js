@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react'
 import { useQuery } from 'urql';
 import {AuthContext} from './contexts/AuthContext.js'
-import Comments from './components/Comments.js'
+import Comments from './components/CommentSubscription.js'
 import Input from './components/Input.js'
 
 
